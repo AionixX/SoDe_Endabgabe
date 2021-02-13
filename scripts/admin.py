@@ -140,6 +140,7 @@ Enter the number to use the function. Enter nothing to quit the programm.
         counter = 1
         for right in translationRights:
             print('{}: {}'.format(counter, self.GetLanguageName(right)))
+            counter = counter + 1
 
         action = input('Which one do you want to delete? Enter nothing to cancle')
 
