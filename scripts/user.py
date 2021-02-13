@@ -90,8 +90,6 @@ Enter the number to use the function. Enter nothing to quit the programm.
             print('You haven\'t translated words yet')
         else:
             print('You have created {} {}'.format(number, "word" if number == 1 else "words"))
-        # count = len(self.GetCreatedWords())
-        # print('You created {} words'.format(count))
 
     def PrintTotalNumberOfWords(self):
         count = len(Data.instance.words)
