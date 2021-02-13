@@ -1,0 +1,56 @@
+[
+    {
+        "uuid": "klasjdhfasdf1",
+        "name": "Hallo",
+        "translations": [
+            {
+                "uuid": "asdfjhvnm",
+                "text": "Hello",
+                "language": "0651asdfasd56"
+            },
+            {
+                "uuid": "asdfjhvnm",
+                "text": "Ciao",
+                "language": "asdf541893"
+            }
+        ]
+    },
+    {
+        "uuid": "f30e7fb2-d45b-4422-a690-186c75a00f2b",
+        "name": "Reis",
+        "translations": [
+            {
+                "uuid": "b8f36ee8-1632-464b-a339-4cbaa097ea01",
+                "text": "Rice",
+                "language": "0651asdfasd56"
+            },
+            {
+                "uuid": "99e55e54-91c6-4e85-967a-fe18ce335b1b",
+                "text": "Riso",
+                "language": "asdf541893"
+            }
+        ]
+    },
+    {
+        "uuid": "a897a776-948e-44a3-bdbf-fe1683648180",
+        "name": "Schloss",
+        "translations": [
+            {
+                "uuid": "9c544c8b-581a-45bf-afb0-b0e492f476d3",
+                "text": "Castle",
+                "language": "0651asdfasd56"
+            }
+        ]
+    },
+    {
+        "uuid": "33e9f0a7-bbc5-40c2-9540-10cab2bafb13",
+        "name": "Wasser",
+        "translations": [
+            {
+                "uuid": "a1c34aa7-3d41-4d00-a807-cfdb3fa34a44",
+                "text": "Water",
+                "language": "0651asdfasd56"
+            }
+        ]
+    }
+]
