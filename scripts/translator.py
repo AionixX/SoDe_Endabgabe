@@ -42,7 +42,7 @@ Enter the number to use the function. Enter nothing to quit the programm.
             self.PrintNumberOfTranslatedWords()
         elif userInput == '7':
             self.ChangePassword()
-        elif userInput == '7':
+        elif userInput == '8':
             self.Logout()
         else:
             return True
